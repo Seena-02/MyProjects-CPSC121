@@ -1,0 +1,6 @@
+5
+Bill Jackson 21
+Robert Clinton 33
+George Bush 26
+Barack Obama 36
+Tom Brown 33
